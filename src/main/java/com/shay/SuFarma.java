@@ -5,4 +5,3 @@ public class SuFarma {
         // Aquí se va a resolver el programa
     }
 }
-
